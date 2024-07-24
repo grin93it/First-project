@@ -101,7 +101,7 @@ body {
 .navigation-list {
   display: flex;
   flex-wrap: wrap;
-  max-width: 550px;
+  max-width: 580px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -248,7 +248,7 @@ body {
 .hero {
   background-color: #a8d7f7;
   background-image: url("../images/bacground-cut.svg"), url("../images/index-background.jpg");
-  background-position: bottom center, center center;
+  background-position: bottom -1px center, center center;
   background-size: 100% auto, cover;
   background-repeat: no-repeat, no-repeat;
   padding: 51px 371px 82px;
